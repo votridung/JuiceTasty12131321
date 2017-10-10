@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Juice Tasty</string>]
+    <string name="tea_main">Trà</string>
+    <string name="name_main">Danh Mục</string>
+    <string name="st">Sinh Tố</string>
+    <string name="st_dau">Sinh tố dâu</string>
+    <string name="st_sapoche">Sinh tố Sapoche</string>
+    <string name="st_bo">Sinh tố bơ</string>
+    <string name="st_vq">Sinh tố việt quất</string>
+    <string name="ne_main">Nước ép</string>
+    <string name="cafe_main">Coffee</string>
+    <string name="cafe_bacxiu">Bạc xỉu</string>
+    <string name="cafe_sua">Coffee sữa</string>
+    <string name="cafe_den">Coffee đen</string>
+
+</resources>
