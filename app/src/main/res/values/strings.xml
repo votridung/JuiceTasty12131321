@@ -12,5 +12,15 @@
     <string name="cafe_bacxiu">Bạc xỉu</string>
     <string name="cafe_sua">Coffee sữa</string>
     <string name="cafe_den">Coffee đen</string>
+    <string name="cafe_capuchino">Coffee Capuchino</string>
+    <string name="tea_chanh">Trà chanh</string>
+    <string name="tea_gung">Trà gừng</string>
+    <string name="tea_tat">Trà tắc</string>
+    <string name="tea_bee">Trà mật ong</string>
+    <string name="ne_cam">Nước ép cam</string>
+    <string name="ne_nho">Nước ép nho</string>
+    <string name="ne_nhadam">Nước ép nha đam</string>
+    <string name="ne_carot">Nước ép cà rốt</string>
+
 
 </resources>

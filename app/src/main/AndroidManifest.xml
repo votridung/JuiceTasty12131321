@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".TeaActivity"/>
+        <activity android:name=".StActivity"/>
+        <activity android:name=".CafeActivity"/>
+        <activity android:name=".NeActivity"/>
     </application>
 
 </manifest>
